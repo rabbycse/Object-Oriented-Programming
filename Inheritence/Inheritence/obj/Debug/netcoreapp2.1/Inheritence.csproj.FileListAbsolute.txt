@@ -1,0 +1,11 @@
+E:\Programming\OOP with C#\Inheritence\Inheritence\bin\Debug\netcoreapp2.1\Inheritence.deps.json
+E:\Programming\OOP with C#\Inheritence\Inheritence\bin\Debug\netcoreapp2.1\Inheritence.runtimeconfig.json
+E:\Programming\OOP with C#\Inheritence\Inheritence\bin\Debug\netcoreapp2.1\Inheritence.runtimeconfig.dev.json
+E:\Programming\OOP with C#\Inheritence\Inheritence\bin\Debug\netcoreapp2.1\Inheritence.dll
+E:\Programming\OOP with C#\Inheritence\Inheritence\bin\Debug\netcoreapp2.1\Inheritence.pdb
+E:\Programming\OOP with C#\Inheritence\Inheritence\obj\Debug\netcoreapp2.1\Inheritence.csprojAssemblyReference.cache
+E:\Programming\OOP with C#\Inheritence\Inheritence\obj\Debug\netcoreapp2.1\Inheritence.csproj.CoreCompileInputs.cache
+E:\Programming\OOP with C#\Inheritence\Inheritence\obj\Debug\netcoreapp2.1\Inheritence.AssemblyInfoInputs.cache
+E:\Programming\OOP with C#\Inheritence\Inheritence\obj\Debug\netcoreapp2.1\Inheritence.AssemblyInfo.cs
+E:\Programming\OOP with C#\Inheritence\Inheritence\obj\Debug\netcoreapp2.1\Inheritence.dll
+E:\Programming\OOP with C#\Inheritence\Inheritence\obj\Debug\netcoreapp2.1\Inheritence.pdb
