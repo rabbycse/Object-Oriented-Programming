@@ -1,0 +1,11 @@
+E:\Programming\OOP with C#\instanceofOperator\instanceofOperator\bin\Debug\netcoreapp2.1\instanceofOperator.deps.json
+E:\Programming\OOP with C#\instanceofOperator\instanceofOperator\bin\Debug\netcoreapp2.1\instanceofOperator.runtimeconfig.json
+E:\Programming\OOP with C#\instanceofOperator\instanceofOperator\bin\Debug\netcoreapp2.1\instanceofOperator.runtimeconfig.dev.json
+E:\Programming\OOP with C#\instanceofOperator\instanceofOperator\bin\Debug\netcoreapp2.1\instanceofOperator.dll
+E:\Programming\OOP with C#\instanceofOperator\instanceofOperator\bin\Debug\netcoreapp2.1\instanceofOperator.pdb
+E:\Programming\OOP with C#\instanceofOperator\instanceofOperator\obj\Debug\netcoreapp2.1\instanceofOperator.csprojAssemblyReference.cache
+E:\Programming\OOP with C#\instanceofOperator\instanceofOperator\obj\Debug\netcoreapp2.1\instanceofOperator.csproj.CoreCompileInputs.cache
+E:\Programming\OOP with C#\instanceofOperator\instanceofOperator\obj\Debug\netcoreapp2.1\instanceofOperator.AssemblyInfoInputs.cache
+E:\Programming\OOP with C#\instanceofOperator\instanceofOperator\obj\Debug\netcoreapp2.1\instanceofOperator.AssemblyInfo.cs
+E:\Programming\OOP with C#\instanceofOperator\instanceofOperator\obj\Debug\netcoreapp2.1\instanceofOperator.dll
+E:\Programming\OOP with C#\instanceofOperator\instanceofOperator\obj\Debug\netcoreapp2.1\instanceofOperator.pdb
