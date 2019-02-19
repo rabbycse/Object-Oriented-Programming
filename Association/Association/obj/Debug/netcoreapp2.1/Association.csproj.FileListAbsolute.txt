@@ -1,0 +1,11 @@
+E:\Programming\OOP with C#\Association\Association\bin\Debug\netcoreapp2.1\Association.deps.json
+E:\Programming\OOP with C#\Association\Association\bin\Debug\netcoreapp2.1\Association.runtimeconfig.json
+E:\Programming\OOP with C#\Association\Association\bin\Debug\netcoreapp2.1\Association.runtimeconfig.dev.json
+E:\Programming\OOP with C#\Association\Association\bin\Debug\netcoreapp2.1\Association.dll
+E:\Programming\OOP with C#\Association\Association\bin\Debug\netcoreapp2.1\Association.pdb
+E:\Programming\OOP with C#\Association\Association\obj\Debug\netcoreapp2.1\Association.csprojAssemblyReference.cache
+E:\Programming\OOP with C#\Association\Association\obj\Debug\netcoreapp2.1\Association.csproj.CoreCompileInputs.cache
+E:\Programming\OOP with C#\Association\Association\obj\Debug\netcoreapp2.1\Association.AssemblyInfoInputs.cache
+E:\Programming\OOP with C#\Association\Association\obj\Debug\netcoreapp2.1\Association.AssemblyInfo.cs
+E:\Programming\OOP with C#\Association\Association\obj\Debug\netcoreapp2.1\Association.dll
+E:\Programming\OOP with C#\Association\Association\obj\Debug\netcoreapp2.1\Association.pdb

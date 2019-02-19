@@ -1,0 +1,11 @@
+E:\Programming\OOP with C#\BankApp\BankApp\bin\Debug\netcoreapp2.1\BankApp.deps.json
+E:\Programming\OOP with C#\BankApp\BankApp\bin\Debug\netcoreapp2.1\BankApp.runtimeconfig.json
+E:\Programming\OOP with C#\BankApp\BankApp\bin\Debug\netcoreapp2.1\BankApp.runtimeconfig.dev.json
+E:\Programming\OOP with C#\BankApp\BankApp\bin\Debug\netcoreapp2.1\BankApp.dll
+E:\Programming\OOP with C#\BankApp\BankApp\bin\Debug\netcoreapp2.1\BankApp.pdb
+E:\Programming\OOP with C#\BankApp\BankApp\obj\Debug\netcoreapp2.1\BankApp.csprojAssemblyReference.cache
+E:\Programming\OOP with C#\BankApp\BankApp\obj\Debug\netcoreapp2.1\BankApp.csproj.CoreCompileInputs.cache
+E:\Programming\OOP with C#\BankApp\BankApp\obj\Debug\netcoreapp2.1\BankApp.AssemblyInfoInputs.cache
+E:\Programming\OOP with C#\BankApp\BankApp\obj\Debug\netcoreapp2.1\BankApp.AssemblyInfo.cs
+E:\Programming\OOP with C#\BankApp\BankApp\obj\Debug\netcoreapp2.1\BankApp.dll
+E:\Programming\OOP with C#\BankApp\BankApp\obj\Debug\netcoreapp2.1\BankApp.pdb
