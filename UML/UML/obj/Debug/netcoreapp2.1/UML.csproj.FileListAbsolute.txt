@@ -1,0 +1,11 @@
+E:\Programming\OOP with C#\UML\UML\obj\Debug\netcoreapp2.1\UML.csprojAssemblyReference.cache
+E:\Programming\OOP with C#\UML\UML\obj\Debug\netcoreapp2.1\UML.csproj.CoreCompileInputs.cache
+E:\Programming\OOP with C#\UML\UML\obj\Debug\netcoreapp2.1\UML.AssemblyInfoInputs.cache
+E:\Programming\OOP with C#\UML\UML\obj\Debug\netcoreapp2.1\UML.AssemblyInfo.cs
+E:\Programming\OOP with C#\UML\UML\bin\Debug\netcoreapp2.1\UML.deps.json
+E:\Programming\OOP with C#\UML\UML\bin\Debug\netcoreapp2.1\UML.runtimeconfig.json
+E:\Programming\OOP with C#\UML\UML\bin\Debug\netcoreapp2.1\UML.runtimeconfig.dev.json
+E:\Programming\OOP with C#\UML\UML\bin\Debug\netcoreapp2.1\UML.dll
+E:\Programming\OOP with C#\UML\UML\bin\Debug\netcoreapp2.1\UML.pdb
+E:\Programming\OOP with C#\UML\UML\obj\Debug\netcoreapp2.1\UML.dll
+E:\Programming\OOP with C#\UML\UML\obj\Debug\netcoreapp2.1\UML.pdb
