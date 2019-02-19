@@ -1,0 +1,11 @@
+E:\Programming\OOP with C#\Aggregation\Aggregation\bin\Debug\netcoreapp2.1\Aggregation.deps.json
+E:\Programming\OOP with C#\Aggregation\Aggregation\bin\Debug\netcoreapp2.1\Aggregation.runtimeconfig.json
+E:\Programming\OOP with C#\Aggregation\Aggregation\bin\Debug\netcoreapp2.1\Aggregation.runtimeconfig.dev.json
+E:\Programming\OOP with C#\Aggregation\Aggregation\bin\Debug\netcoreapp2.1\Aggregation.dll
+E:\Programming\OOP with C#\Aggregation\Aggregation\bin\Debug\netcoreapp2.1\Aggregation.pdb
+E:\Programming\OOP with C#\Aggregation\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.csprojAssemblyReference.cache
+E:\Programming\OOP with C#\Aggregation\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.csproj.CoreCompileInputs.cache
+E:\Programming\OOP with C#\Aggregation\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.AssemblyInfoInputs.cache
+E:\Programming\OOP with C#\Aggregation\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.AssemblyInfo.cs
+E:\Programming\OOP with C#\Aggregation\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.dll
+E:\Programming\OOP with C#\Aggregation\Aggregation\obj\Debug\netcoreapp2.1\Aggregation.pdb
